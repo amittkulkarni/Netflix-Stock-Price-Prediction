@@ -1,2 +1,2 @@
-# Netflix-Stock-Price-Predition-Machine-Learning
-Netflix Stock Price Predition Machine Learning
+# Netflix-Stock-Price-Prediction
+Netflix Stock Price Predition using Machine Learning and Deep Learning
